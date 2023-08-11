@@ -1,5 +1,5 @@
 import Superheroes from './components/Superheroes';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
